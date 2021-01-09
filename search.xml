@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>你们好啊</title>
+    <url>/2021/01/09/first/</url>
+    <content><![CDATA[<h1 id="你们好啊"><a href="#你们好啊" class="headerlink" title="你们好啊"></a>你们好啊</h1><p>感到翻跟斗翻跟斗</p>
+<ul>
+<li>飞得更高</li>
+</ul>
+<div><a class="btn" href="#">Text</a></div>
+
+<div><a class="btn" href="#"><i class="fa fa-home"></i></a></div>
+
+<div><a class="btn" href="#" title="Title"><i class="fa fa-home fa-fw fa-lg"></i>Text & Large Icon & Title</a>fwefw</div>
+
+<div class="note info"><p>yrtsrtsrthgrhr</p>
+</div>
+
+<a id="more"></a>
+
+<iframe data-feature="fetch" src="https://caniuse.bitsofco.de/embed/index.html?feat=fetch&periods=future_1,past_1,past_2,past_3,past_4,past_5&accessible-colours=false" frameborder="0" width="100%" height="400px"></iframe>
+
+<div class="group-picture"><div class="group-picture-row"><div class="group-picture-column"><img data-src="/images/beian.png"></div></div><div class="group-picture-row"><div class="group-picture-column"><img data-src="/images/beian.png"></div><div class="group-picture-column"><img data-src="/images/beian.png"></div></div></div>
+
+<div class="link-grid"><div class="link-grid-container">
+<div class="link-grid-image" style="background-image: url(/images/apple-touch-icon-next.png);"></div>
+<p>Theme NexT</p><p>Stay Simple. Stay NexT.</p>
+<a href="https://theme-next.js.org/"></a>
+</div><div class="link-grid-container">
+<div class="link-grid-image" style="background-image: url(/images/apple-touch-icon-next.png);"></div>
+<p>Theme NexT</p><p>Stay Simple. Stay NexT.</p>
+<a href="https://theme-next.js.org/"></a>
+</div></div>
+
+<div class="mermaid">
+stateDiagram
+[*] --&gt; Still
+Still --&gt; [*]
+Still --&gt; Moving
+Moving --&gt; Still
+Moving --&gt; Crash
+Crash --&gt; [*]
+</div>
+
+<div class="mermaid">
+journey
+title My working day
+section Go to work
+  Make tea: 5: Me
+  Go upstairs: 3: Me
+  Do work: 1: Me, Cat
+section Go home
+  Go downstairs: 5: Me
+  Sit down: 3: Me
+</div>
+
+<iframe src="//player.bilibili.com/player.html?aid=843591577&bvid=BV1D54y1W7QQ&cid=279824466&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+]]></content>
+  </entry>
+  <entry>
+    <title>note</title>
+    <url>/2021/01/09/note/</url>
+    <content><![CDATA[<center><h1>个人技术栈</h1></center>
+<center><h4>注意事项</h4></center>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2021/01/09/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<a id="more"></a>
+
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+</search>
